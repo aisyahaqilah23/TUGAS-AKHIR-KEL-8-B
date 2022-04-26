@@ -8,7 +8,7 @@ int main(){
     int looping1, looping2, batas_elemen, temp, input_elemen[50];
     
     
-    cout<<"\t\tSHORTING MENGGUNAKAN INSERTION SORT\n";  //Menampilkan tulisan "SHORTING MENGGUNAKAN INSERTION SORT"
+    cout<<"\t\tINSERTION SORT\n";  //Menampilkan tulisan "INSERTION SORT"
     
     cout<<"\nInput Batas Elemen Array	: ";	//Input Batas array menggunakan angka
     cin>>batas_elemen;
